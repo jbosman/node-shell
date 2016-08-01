@@ -1,0 +1,26 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "Node-shell lab for fullstack.",
+  "main": "bash.js",
+  "scripts": {
+    "test": "pwd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbosman/node-shell.git"
+  },
+  "keywords": [
+    "node",
+    "shell"
+  ],
+  "author": "Joe Bosman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbosman/node-shell/issues"
+  },
+  "homepage": "https://github.com/jbosman/node-shell#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
